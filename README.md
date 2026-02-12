@@ -153,13 +153,5 @@ resource "aws_s3_bucket_website_configuration" "website" {
 
 + click the link and check your resume
 
-![image](https://github.com/Sumyak-Jain/Basic-Terraform-Project/assets/46700921/8adc57e3-9bc9-41a1-b528-07b284a2dc3a)
-
-### STEP-6 terraform destroy (OPTIONAL) :
-+ you can use terraform destroy as it is a convenient way to destroy all remote objects managed by a particular Terraform configuration.
-
-![image](https://github.com/Sumyak-Jain/Basic-Terraform-Project/assets/46700921/6ba253c9-2693-44d2-be9c-1d201b76a9bc)
-![image](https://github.com/Sumyak-Jain/Basic-Terraform-Project/assets/46700921/3f729d32-3213-469f-964f-945f6ede9521)
-
 #
 ### CONGRATULATIONS! :clap: now you know how to host a static website on aws s3 using terraform
